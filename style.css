@@ -26,7 +26,8 @@ body {
 }
 
 .about #title {
-	font-size: 18pt
+	font-size: 18pt;
+	color: #0D234F
 }
 
 .about #logo {
@@ -34,6 +35,15 @@ body {
 	margin-bottom: 0;
 	position:relative;
 	float: left
+}
+
+.contacts {
+	color: #303030
+}
+
+.contacts #title {
+	font-size: 18pt;
+	color: #0D234F
 }
 
 hr {
